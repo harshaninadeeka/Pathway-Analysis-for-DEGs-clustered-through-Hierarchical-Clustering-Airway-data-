@@ -48,3 +48,5 @@ This analysis successfully maps these gene clusters to three major biological th
 
 
 Leveraging my molecular biotechnology background, this project helped me to improve my skills in R-based transcriptomics, from identifying DEGs from RNA seq data, hierarchical clustering of differentially expressed genes to Reactome pathway enrichment analysis (ORA) of glucocorticoid-treated airway cells.
+
+I will upload my R script, cluster files and visualized plots.
